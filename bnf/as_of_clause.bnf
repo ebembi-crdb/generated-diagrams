@@ -1,0 +1,2 @@
+as_of_clause ::=
+	'AS' 'OF' 'SYSTEM' 'TIME' a_expr
